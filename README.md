@@ -1,2 +1,2 @@
 # hello-world
-This is the first repository I have created.
+This branch is just an example of branching in GitHub.
